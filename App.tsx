@@ -1,0 +1,1 @@
+// This file is deprecated. See index.html and script.js for the static implementation.
